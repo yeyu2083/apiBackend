@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  },
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "iniciando una api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyu2083/apiBackend.git"
+  },
+  "author": "Yesica Windecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeyu2083/apiBackend/issues"
+  },
+  "homepage": "https://github.com/yeyu2083/apiBackend#readme"
+}

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://media.istockphoto.com/id/1435235897/es/foto/concepto-de-ciberseguridad-login-usuario-seguridad-y-cifrado-de-la-informaci%C3%B3n-de.jpg?s=612x612&w=0&k=20&c=EN4sfWAoUaHgp6nX1hSDdFcSF44WPUX0ss5KsV628Yk=");
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+
+ h1 {
+    display: flex;
+    justify-content: center;
+    text-shadow: 3px 5px black;
+  
+} 
